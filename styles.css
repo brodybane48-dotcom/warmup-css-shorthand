@@ -1,0 +1,38 @@
+body{
+margin: 0px;
+}
+
+.plain-abbrs{
+text-decoration:none;    
+}
+
+.emphasis{
+font-style: normal;    
+font-weight: 900;
+}
+
+.header{
+background-color: grey;    
+padding: 10px;
+padding-left: 20px;
+}
+
+.site-content{
+margin-left: 20px; 
+}
+
+.footer{
+background-color: red;
+color: white;
+padding: 20px;
+}
+
+.list{
+color: white;
+list-style-type: none;
+}
+
+.list-item{
+color: white;
+margin-left: -40px;
+}
